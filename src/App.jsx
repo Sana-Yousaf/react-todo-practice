@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>My To-Do List</h1>
+      <h1>My To-Do List (Updated)</h1>
       <div className="input-row">
         <input
           value={task}
